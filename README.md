@@ -1,2 +1,2 @@
 # MakeMp3
-Audio file to Mp3 converter with a bit of a personality.
+I've gotten sick of those online WAV to MP3 converters restricting access and asking you to download their spyware. So, at lunch I wrote my own. Took a half hour. I love being a programmer.
